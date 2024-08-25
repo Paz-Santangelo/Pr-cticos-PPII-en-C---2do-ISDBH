@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\POO\bin\Debug\POO.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\POO\bin\Debug\POO.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\POO\bin\Debug\POO.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\POO\obj\Debug\POO.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\POO\obj\Debug\POO.pdb

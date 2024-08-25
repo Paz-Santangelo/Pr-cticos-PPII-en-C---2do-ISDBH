@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\Ejercicios_en_C#_220824\bin\Debug\Ejercicios_en_C#_220824.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\Ejercicios_en_C#_220824\bin\Debug\Ejercicios_en_C#_220824.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\Ejercicios_en_C#_220824\bin\Debug\Ejercicios_en_C#_220824.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\Ejercicios_en_C#_220824\obj\Debug\Ejercicios_en_C#_220824.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\Ejercicios_en_C#_220824\obj\Debug\Ejercicios_en_C#_220824.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\Ejercicios_en_C#_220824\obj\Debug\Ejercicios_en_C#_220824.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Programacion\TSDS - Dr. Houssay\Segundo Año\Práctica Profesionalizante\Ejercicios_en_C#_220824\Ejercicios_en_C#_220824\obj\Debug\Ejercicios_en_C#_220824.pdb
